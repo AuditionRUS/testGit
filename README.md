@@ -1,2 +1,4 @@
-This is the Hello World example from the git tutorial.
-(Changed in the original and pushed to shared)
+Name: Anton
+Surname: Chekulaev
+Phone: +79287789830
+Email: anton.chekulaev@roonyx.team
